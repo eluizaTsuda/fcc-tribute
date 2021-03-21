@@ -3,6 +3,6 @@
 
 
 Inline-style: 
-![alt text](https://eluizatsuda.github.io/image/tribute/Canva-m.png "Screenshot")
+![alt text](https://eluizatsuda.github.io/image/tribute-ayrton_senna/Canva-m.png "Screenshot")
 
 
